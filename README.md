@@ -50,6 +50,14 @@ This standalone demo, built with Codex assistance, estimates whether an electric
 
 [Live demo](https://varick123.github.io/ev-battery-reserve-checker/) · [Source code](https://github.com/varick123/ev-battery-reserve-checker)
 
+### Template Mailer · Previewing personalised email
+
+`Python` · `SQLite` · `SMTP`
+
+A command-line tool that turns CSV contacts and adjustable templates into local email previews. It keeps a delivery ledger so an interrupted send can be reconciled before retrying. The public repository includes fictional examples, a portable setup guide, and six tests that cover previewing, duplicates, opt-outs, and interrupted delivery.
+
+[Source code and usage guide](https://github.com/varick123/template-mailer)
+
 ## Tools
 
 - **Systems and graphics** — C, C++, OpenGL, CMake
