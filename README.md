@@ -1,22 +1,34 @@
 <div align="center">
 
+<img src="docs/readme/banner.svg" width="100%" alt="Varick Teo. Real-Time Interactive Simulation.">
+
 # Varick Teo
 
-**Computer Science · Real-Time Interactive Simulation · SIT–DigiPen**
+I build C++ systems and TypeScript prototypes, with an interest in timing, external data, and edge cases.
+
+<img src="docs/readme/badges.svg" alt="C++ · TypeScript · Python">
 
 [LinkedIn](https://www.linkedin.com/in/varick-teo/) · [Repositories](https://github.com/varick123?tab=repositories)
 
 </div>
 
-I build C++ systems and TypeScript prototypes. I like working on the parts of software that determine what happens when timing changes, data is missing, or a user hits an edge case.
-
 ## About
 
-I’m a Computer Science undergraduate at the Singapore Institute of Technology and DigiPen. Before university, I spent two years in National Service with the Digital and Intelligence Service, where I worked on intelligence research and geospatial analysis.
+I study Computer Science in Real-Time Interactive Simulation at the Singapore Institute of Technology and DigiPen. Before university, I spent two years in National Service with the Digital and Intelligence Service, working on intelligence research and geospatial analysis.
 
-I’m interested in backend and systems engineering, especially how to test the behaviour of applications that depend on external data. I’m available for a full-time internship from May 2027 to April 2028.
+I’m interested in backend and systems engineering, especially testing software that depends on external data. I’m available for a full-time internship from May 2027 to April 2028.
 
 ## Selected projects
+
+| Project | What I worked on |
+| --- | --- |
+| [EV Battery Reserve Checker](https://github.com/varick123/ev-battery-reserve-checker) · [Live demo](https://varick123.github.io/ev-battery-reserve-checker/) | Browser calculator that distinguishes an exact reserve from an energy shortfall |
+| [Template Mailer](https://github.com/varick123/template-mailer) | Python CLI with offline email previews and an SQLite ledger for interrupted sends |
+| [ChargedUp](#chargedup--electric-vehicle-journey-planning) | Battery feasibility and charging-stop scoring for Upsight |
+| [WaterBound](#waterbound--game-engine-timing) | Fixed-timestep simulation in a team C++ engine |
+| [Thalassa](#thalassa--repeated-hazard-damage) | Player, camera, and hazard behaviour in C++ |
+
+## Project notes
 
 ### ChargedUp · Electric vehicle journey planning
 
@@ -62,3 +74,4 @@ A command-line tool that turns CSV contacts and adjustable templates into local 
 
 - **Systems and graphics** — C, C++, OpenGL, CMake
 - **Application logic and testing** — TypeScript, JavaScript, Git, Vitest, CTest
+- **Scripting and data** — Python, SQLite

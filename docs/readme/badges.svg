@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="357" height="36" viewBox="0 0 357 36" role="img" aria-labelledby="title">
+  <title id="title">C++ · TypeScript · Python</title>
+  <rect x="1" y="1" width="82" height="34" rx="7" fill="#17253c" stroke="#52627d"/>
+  <circle cx="16" cy="18" r="3.5" fill="#79e4c4"/>
+  <text x="29" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#f4f8ff">C++</text>
+  <rect x="92" y="1" width="142" height="34" rx="7" fill="#17253c" stroke="#52627d"/>
+  <circle cx="107" cy="18" r="3.5" fill="#a5c7ff"/>
+  <text x="120" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#f4f8ff">TypeScript</text>
+  <rect x="243" y="1" width="112" height="34" rx="7" fill="#17253c" stroke="#52627d"/>
+  <circle cx="258" cy="18" r="3.5" fill="#ffd598"/>
+  <text x="271" y="23" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" fill="#f4f8ff">Python</text>
+</svg>
