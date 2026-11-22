@@ -22,7 +22,7 @@ I’m interested in backend and systems engineering, especially how to test the 
 
 `TypeScript` · `Qwen` · `Ollama` · `external data`
 
-For this team project for Upsight, I built a scoring package that checks whether the battery can make the trip and ranks charging stops by cost, travel time and detour. I also helped connect the conversational assistant to those calculations and check how it handled missing or stale charger information.
+On this team project for Upsight, I built a scoring package that checks whether the battery can make the trip and ranks charging stops by cost, travel time and detour. I also helped connect the conversational assistant to those calculations and check how it handled missing or stale charger information.
 
 ### WaterBound · Game engine timing
 
